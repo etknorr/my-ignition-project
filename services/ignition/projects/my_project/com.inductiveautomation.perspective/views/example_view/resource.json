@@ -1,0 +1,15 @@
+{
+  "scope": "A",
+  "version": 1,
+  "documentation": "",
+  "locked": false,
+  "files": [
+    "view.json"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "admin",
+      "timestamp": "2026-05-10T07:30:00Z"
+    }
+  }
+}
