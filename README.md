@@ -22,7 +22,7 @@ The `main` branch runs an Ignition 8.3 stack:
 
 The gateway is exposed via [Traefik](https://traefik.io/) at `${GATEWAY_NAME}.localtest.me`.
 Traefik must be running before starting this stack - see the
-[setup guide](https://etknorr.github.io/ignition-guides/docs/getting-started/traefik) for
+[setup guide](https://knorrlabs.github.io/ignition-guides/docs/getting-started/traefik) for
 instructions.
 
 ## Quick Start
@@ -45,7 +45,7 @@ instructions.
 
 5. Open `http://${GATEWAY_NAME}.localtest.me` in your browser
 
-For a full walkthrough see the [Hands-On Lab](https://etknorr.github.io/ignition-guides/docs/labs/git-ignition-lab).
+For a full walkthrough see the [Hands-On Lab](https://knorrlabs.github.io/ignition-guides/docs/labs/version-control-lab).
 
 ## Version Control
 
@@ -62,4 +62,4 @@ Changes made in the Ignition Designer appear instantly in these directories - no
 ## Linting
 
 Pull requests run shellcheck, markdownlint, yamllint, and ignition-lint automatically. See the
-[ignition-guides](https://etknorr.github.io/ignition-guides/) for details.
+[ignition-guides](https://knorrlabs.github.io/ignition-guides/) for details.
